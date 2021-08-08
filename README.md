@@ -5,4 +5,4 @@
 - if you roll dice-1 you lose your turn score 
 - hold to keep your turn score 
 - play with your friend and see who will win 
-- check the link => 
+- check the link => https://ahmed3tef.github.io/Roll-And-Win-Game/
